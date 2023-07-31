@@ -1,0 +1,28 @@
+.heading {
+  font-size: 36px;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+.para {
+  font-size: 24px;
+  font-weight: 300;
+}
+.button1 {
+  background-color: #0b69ff;
+  margin: 10px;
+}
+.button2 {
+  background-color: transparent;
+  color: white;
+  margin: 10px;
+}
+.image {
+  width: 100%;
+}
